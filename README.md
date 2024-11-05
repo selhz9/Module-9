@@ -23,7 +23,7 @@ This weather application can be used by travelers to see the weather outlook for
 This code and assignment description was given to me to modify by my Bootcamp 2024 Instructor.
 
 ## License
-None
+MIT
 
 ## Questions
 Feel free to reach out to me here with any questions or comments:
